@@ -1,0 +1,996 @@
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/7.jpg in 47.28ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/7.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/7.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 564b18651c20
+[LOG] handlePreferredScale: 1.00 for 564b18651c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/5.jpg in 60.63ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/5.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/5.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 56237eddfc20
+[LOG] handlePreferredScale: 1.00 for 56237eddfc20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/3.jpg in 49.76ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/3.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/3.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 5580fe29dc20
+[LOG] handlePreferredScale: 1.00 for 5580fe29dc20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/1.jpg in 59.42ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/1.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/1.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 5603349c0c20
+[LOG] handlePreferredScale: 1.00 for 5603349c0c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/6.jpg in 29.97ms -> Pixel size: [1280, 720]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/6.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/6.jpg at [0.00, -0.18], scale: 1.07 (original image size: [1280, 720])
+[LOG] Submitting viewport dest size 1366x768 for 55897992ec20
+[LOG] handlePreferredScale: 1.00 for 55897992ec20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/4.jpg in 67.98ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/4.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/4.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55d118f47c20
+[LOG] handlePreferredScale: 1.00 for 55d118f47c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/1.jpg in 61.01ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/1.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/1.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 564730d33c20
+[LOG] handlePreferredScale: 1.00 for 564730d33c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/6.jpg in 34.98ms -> Pixel size: [1280, 720]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/6.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/6.jpg at [0.00, -0.18], scale: 1.07 (original image size: [1280, 720])
+[LOG] Submitting viewport dest size 1366x768 for 55f466baec20
+[LOG] handlePreferredScale: 1.00 for 55f466baec20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/4.jpg in 67.69ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/4.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/4.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55e855608c20
+[LOG] handlePreferredScale: 1.00 for 55e855608c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/2.jpg in 62.22ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/2.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/2.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 558753945c20
+[LOG] handlePreferredScale: 1.00 for 558753945c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/7.jpg in 44.36ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/7.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/7.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 5628fceb2c20
+[LOG] handlePreferredScale: 1.00 for 5628fceb2c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/5.jpg in 45.99ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/5.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/5.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55f5313e8c20
+[LOG] handlePreferredScale: 1.00 for 55f5313e8c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/2.jpg in 63.64ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/2.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/2.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55c36ca25c20
+[LOG] handlePreferredScale: 1.00 for 55c36ca25c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/6.jpg in 35.11ms -> Pixel size: [1280, 720]
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/6.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/6.jpg at [0.00, -0.18], scale: 1.07 (original image size: [1280, 720])
+[LOG] Submitting viewport dest size 1366x768 for 55662845cc20
+[LOG] handlePreferredScale: 1.00 for 55662845cc20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] No wayland compositor running!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] No wayland compositor running!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] No wayland compositor running!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/1.jpg in 59.67ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/1.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/1.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55bbe5bcbc20
+[LOG] handlePreferredScale: 1.00 for 55bbe5bcbc20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/5.jpg in 46.53ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/5.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/5.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 56303ab88c20
+[LOG] handlePreferredScale: 1.00 for 56303ab88c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/2.jpg in 62.57ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/2.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/2.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55752f249c20
+[LOG] handlePreferredScale: 1.00 for 55752f249c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/6.jpg in 29.73ms -> Pixel size: [1280, 720]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/6.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/6.jpg at [0.00, -0.18], scale: 1.07 (original image size: [1280, 720])
+[LOG] Submitting viewport dest size 1366x768 for 557afaeaec20
+[LOG] handlePreferredScale: 1.00 for 557afaeaec20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/3.jpg in 50.10ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/3.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/3.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 564868119c20
+[LOG] handlePreferredScale: 1.00 for 564868119c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/7.jpg in 43.69ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/7.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/7.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 56002b4b0c20
+[LOG] handlePreferredScale: 1.00 for 56002b4b0c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/4.jpg in 88.07ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/4.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/4.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 561afb8c4c20
+[LOG] handlePreferredScale: 1.00 for 561afb8c4c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/1.jpg in 76.95ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/1.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/1.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 5588a4017c20
+[LOG] handlePreferredScale: 1.00 for 5588a4017c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/5.jpg in 56.39ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/5.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/5.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 556d78878c20
+[LOG] handlePreferredScale: 1.00 for 556d78878c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/2.jpg in 65.62ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/2.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/2.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55c65f273c20
+[LOG] handlePreferredScale: 1.00 for 55c65f273c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/6.jpg in 29.44ms -> Pixel size: [1280, 720]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/6.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/6.jpg at [0.00, -0.18], scale: 1.07 (original image size: [1280, 720])
+[LOG] Submitting viewport dest size 1366x768 for 55b161867c20
+[LOG] handlePreferredScale: 1.00 for 55b161867c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/3.jpg in 50.73ms -> Pixel size: [1920, 1080]
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/3.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/3.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55c3d1b83c20
+[LOG] handlePreferredScale: 1.00 for 55c3d1b83c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/7.jpg in 44.68ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/7.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/7.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 565226ed7c20
+[LOG] handlePreferredScale: 1.00 for 565226ed7c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/4.jpg in 67.47ms -> Pixel size: [1920, 1080]
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/4.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/4.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55780900ac20
+[LOG] handlePreferredScale: 1.00 for 55780900ac20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/1.jpg in 60.53ms -> Pixel size: [1920, 1080]
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 6)
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/1.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/1.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55eb41b25c20
+[LOG] handlePreferredScale: 1.00 for 55eb41b25c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/5.jpg in 46.42ms -> Pixel size: [1920, 1080]
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/5.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/5.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 559259811c20
+[LOG] handlePreferredScale: 1.00 for 559259811c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/2.jpg in 75.21ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/2.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] configure for eDP-1
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/2.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55a9c9b2dc20
+[LOG] handlePreferredScale: 1.00 for 55a9c9b2dc20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/6.jpg in 29.45ms -> Pixel size: [1280, 720]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/6.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/6.jpg at [0.00, -0.18], scale: 1.07 (original image size: [1280, 720])
+[LOG] Submitting viewport dest size 1366x768 for 55f80835ec20
+[LOG] handlePreferredScale: 1.00 for 55f80835ec20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/3.jpg in 49.19ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/3.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/3.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 561450812c20
+[LOG] handlePreferredScale: 1.00 for 561450812c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/7.jpg in 42.82ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/7.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/7.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 5561ac823c20
+[LOG] handlePreferredScale: 1.00 for 5561ac823c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/4.jpg in 67.96ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/4.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/4.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 5586b8b09c20
+[LOG] handlePreferredScale: 1.00 for 5586b8b09c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/1.jpg in 60.29ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/1.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/1.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55b89544dc20
+[LOG] handlePreferredScale: 1.00 for 55b89544dc20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/5.jpg in 46.03ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/5.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/5.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 558d3d767c20
+[LOG] handlePreferredScale: 1.00 for 558d3d767c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/2.jpg in 62.16ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/2.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/2.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 556cf832ec20
+[LOG] handlePreferredScale: 1.00 for 556cf832ec20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/6.jpg in 29.32ms -> Pixel size: [1280, 720]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/6.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/6.jpg at [0.00, -0.18], scale: 1.07 (original image size: [1280, 720])
+[LOG] Submitting viewport dest size 1366x768 for 5641d2eb9c20
+[LOG] handlePreferredScale: 1.00 for 5641d2eb9c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/3.jpg in 49.18ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/3.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/3.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55b4f67c4c20
+[LOG] handlePreferredScale: 1.00 for 55b4f67c4c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/7.jpg in 42.33ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/7.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/7.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 5621e45c4c20
+[LOG] handlePreferredScale: 1.00 for 5621e45c4c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/4.jpg in 67.61ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/4.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/4.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 560e7bf09c20
+[LOG] handlePreferredScale: 1.00 for 560e7bf09c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/1.jpg in 61.39ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/1.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/1.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 5587f1402c20
+[LOG] handlePreferredScale: 1.00 for 5587f1402c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/5.jpg in 47.85ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/5.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/5.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55efacf20c20
+[LOG] handlePreferredScale: 1.00 for 55efacf20c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] Cannot launch multiple instances of Hyprpaper at once!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/6.jpg in 29.47ms -> Pixel size: [1280, 720]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/6.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/6.jpg at [0.00, -0.18], scale: 1.07 (original image size: [1280, 720])
+[LOG] Submitting viewport dest size 1366x768 for 56375367cc20
+[LOG] handlePreferredScale: 1.00 for 56375367cc20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/3.jpg in 50.63ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/3.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/3.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 558d3a82ec20
+[LOG] handlePreferredScale: 1.00 for 558d3a82ec20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/1.jpg in 61.04ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/1.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/1.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 559960440c20
+[LOG] handlePreferredScale: 1.00 for 559960440c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/5.jpg in 46.48ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/5.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/5.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55f6d83aec20
+[LOG] handlePreferredScale: 1.00 for 55f6d83aec20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/6.jpg in 29.24ms -> Pixel size: [1280, 720]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/6.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/6.jpg at [0.00, -0.18], scale: 1.07 (original image size: [1280, 720])
+[LOG] Submitting viewport dest size 1366x768 for 55838eb5dc20
+[LOG] handlePreferredScale: 1.00 for 55838eb5dc20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/3.jpg in 60.56ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/3.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/3.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55de6be4bc20
+[LOG] handlePreferredScale: 1.00 for 55de6be4bc20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/7.jpg in 47.11ms -> Pixel size: [1920, 1080]
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 6)
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/7.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/7.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/4.jpg in 69.36ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/4.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/4.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 557e36ad5c20
+[LOG] handlePreferredScale: 1.00 for 557e36ad5c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/1.jpg in 65.40ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/1.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/1.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55920842bc20
+[LOG] handlePreferredScale: 1.00 for 55920842bc20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/5.jpg in 46.39ms -> Pixel size: [1920, 1080]
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/5.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/5.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/2.jpg in 65.21ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/2.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/2.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 56251f2d0c20
+[LOG] handlePreferredScale: 1.00 for 56251f2d0c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/6.jpg in 30.79ms -> Pixel size: [1280, 720]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/6.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/6.jpg at [0.00, -0.18], scale: 1.07 (original image size: [1280, 720])
+[LOG] Submitting viewport dest size 1366x768 for 55df53d0ac20
+[LOG] handlePreferredScale: 1.00 for 55df53d0ac20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/3.jpg in 49.56ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/3.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/3.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/7.jpg in 44.38ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/7.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/7.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 5569783edc20
+[LOG] handlePreferredScale: 1.00 for 5569783edc20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/4.jpg in 68.54ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/4.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/4.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55eec9a28c20
+[LOG] handlePreferredScale: 1.00 for 55eec9a28c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] No wayland compositor running!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] No wayland compositor running!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] No wayland compositor running!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] No wayland compositor running!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] No wayland compositor running!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] No wayland compositor running!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] No wayland compositor running!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] No wayland compositor running!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/5.jpg in 46.03ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/5.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/5.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/2.jpg in 63.49ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/2.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/2.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 562585536c20
+[LOG] handlePreferredScale: 1.00 for 562585536c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/6.jpg in 29.75ms -> Pixel size: [1280, 720]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/6.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/6.jpg at [0.00, -0.18], scale: 1.07 (original image size: [1280, 720])
+[LOG] Submitting viewport dest size 1366x768 for 56337beafc20
+[LOG] handlePreferredScale: 1.00 for 56337beafc20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/3.jpg in 49.69ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/3.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/3.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/7.jpg in 42.79ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/7.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/7.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55fefe2b5c20
+[LOG] handlePreferredScale: 1.00 for 55fefe2b5c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/4.jpg in 68.45ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/4.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/4.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 563726f00c20
+[LOG] handlePreferredScale: 1.00 for 563726f00c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/1.jpg in 60.90ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/1.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/1.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+r/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/3.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55969630ac20
+[LOG] handlePreferredScale: 1.00 for 55969630ac20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/7.jpg in 42.56ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/7.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/7.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 556102c60c20
+[LOG] handlePreferredScale: 1.00 for 556102c60c20
+G] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] No wayland compositor running!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[CRITICAL] No wayland compositor running!
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/6.jpg in 29.27ms -> Pixel size: [1280, 720]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/6.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/6.jpg at [0.00, -0.18], scale: 1.07 (original image size: [1280, 720])
+[LOG] Submitting viewport dest size 1366x768 for 561727b2bc20
+[LOG] handlePreferredScale: 1.00 for 561727b2bc20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/3.jpg in 49.60ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/3.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/3.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55de13056c20
+[LOG] handlePreferredScale: 1.00 for 55de13056c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/7.jpg in 42.78ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/7.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/7.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/4.jpg in 68.96ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/4.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/4.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 56458ac52c20
+[LOG] handlePreferredScale: 1.00 for 56458ac52c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/1.jpg in 61.14ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/1.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/1.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 563a83be7c20
+[LOG] handlePreferredScale: 1.00 for 563a83be7c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/5.jpg in 46.24ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/5.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/5.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/2.jpg in 63.35ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/2.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/2.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 557d369cbc20
+[LOG] handlePreferredScale: 1.00 for 557d369cbc20
+ypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/3.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55822cafac20
+[LOG] handlePreferredScale: 1.00 for 55822cafac20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/7.jpg in 42.63ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/7.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/7.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55dcb7f09c20
+[LOG] handlePreferredScale: 1.00 for 55dcb7f09c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/4.jpg in 68.39ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/4.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/4.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/1.jpg in 59.66ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/1.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/1.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55966e080c20
+[LOG] handlePreferredScale: 1.00 for 55966e080c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/5.jpg in 46.60ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/5.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/5.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Submitting viewport dest size 1366x768 for 55fad0fb2c20
+[LOG] handlePreferredScale: 1.00 for 55fad0fb2c20
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/2.jpg in 62.74ms -> Pixel size: [1920, 1080]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/2.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/2.jpg at [0.00, -0.26], scale: 0.71 (original image size: [1920, 1080])
+[LOG] Welcome to hyprpaper!
+built from commit  ()
+[LOG] Cleaned old hyprpaper preloads (1), removing 4.2MB
+[LOG] Preloaded target /home/danila/.config/hypr/wallpapers/6.jpg in 29.72ms -> Pixel size: [1280, 720]
+[LOG] Buffer created for target /home/danila/.config/hypr/wallpapers/6.jpg, Shared Memory usage: 4.2MB
+[LOG] Total SM usage for all buffers: 4.2MB
+[LOG] hyprpaper socket started at /run/user/1000/hypr/967c3c7404d4fa00234e29c70df3e263386d2597_1763571608_751205166/.hyprpaper.sock (fd: 5)
+[LOG] configure for eDP-1
+[LOG] configure for eDP-1
+[LOG] Image data for eDP-1: /home/danila/.config/hypr/wallpapers/6.jpg at [0.00, -0.18], scale: 1.07 (original image size: [1280, 720])
+[LOG] Submitting viewport dest size 1366x768 for 558f13b6bc20
+[LOG] handlePreferredScale: 1.00 for 558f13b6bc20
